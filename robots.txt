@@ -1,4 +1,4 @@
-Sitemap: https://krastanov.github.io/CQNwiki/sitemap.xml
+Sitemap: https://cqnwiki.krastanov.org/sitemap.xml
 
 User-agent: *
 Disallow:

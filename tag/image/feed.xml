@@ -11,12 +11,12 @@
     <title>
       <![CDATA[  The CQN Wiki  ]]>
     </title>
-    <link> https://krastanov.github.io/CQNwiki </link>
+    <link> https://cqnwiki.krastanov.org/ </link>
     <description>
       <![CDATA[  A knowledge base on quantum networking  ]]>
     </description>
     <atom:link
-      href="https://krastanov.github.io/CQNwiki/feed.xml"
+      href="https://cqnwiki.krastanov.org/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
