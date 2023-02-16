@@ -1,0 +1,29 @@
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
+
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p></p>
+  </div>
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item {{ispage index.html}}active{{end}}" href="/">Home</a>
+    <a class="sidebar-nav-item {{ispage /template/index.html}}active{{end}}" href="/template/">Template use</a>
+  </nav>
+  <div class="sidebar-item">
+    <p>&copy; {{fill author}}.</p>
+  </div>
+</div>
+
+<!-- Wrap is the content to shift when toggling the sidebar. We wrap the
+content to avoid any CSS collisions with our real content. -->
+<div class="wrap">
+  <div class="masthead">
+    <div class="container">
+      <h3 class="masthead-title">
+        <a href="/" title="Home">{{fill website_title}}</a>
+        <small>{{fill website_descr}}</small>
+      </h3>
+    </div>
+  </div>
+
+  <div class="container content">
