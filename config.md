@@ -15,7 +15,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "The CQN Wiki"
 website_descr = "A knowledge base on quantum networking"
-website_url   = "https://krastanov.github.io/CQNwiki"
+website_url   = "https://cqnwiki.krastanov.org/"
 +++
 
 <!--
