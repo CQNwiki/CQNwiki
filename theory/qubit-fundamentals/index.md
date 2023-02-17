@@ -1,9 +1,9 @@
 # Qubit Fundamentals
 
-- [Qubit Gates, Circtuits, and Universality](./circuits.md)
-- [Dirac Notation](./dirac-notation.md)
-- [Linear Algebra](./linear-algebra.md)
-- [Pauli Operators](./pauli-operators.md)
-- [Postulates of Quantum Mechanics](./quantum-postulates.md)
-- [Superposition and Entanglement](./superposition-entanglement.md)
+- [Qubit Gates, Circuits, and Universality](./circuits/)
+- [Dirac Notation](./dirac-notation/)
+- [Linear Algebra](./linear-algebra/)
+- [Pauli Operators](./pauli-operators/)
+- [Postulates of Quantum Mechanics](./quantum-postulates/)
+- [Superposition and Entanglement](./superposition-entanglement/)
 
