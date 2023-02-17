@@ -1,3 +1,5 @@
-# Qubit Gates, Circtuits, and Universality
+# Qubit Gates, Circuits, and Universality
 
 $$|\psi\rangle$$
+
+$$\ket{\psi}$$
