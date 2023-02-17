@@ -56,6 +56,12 @@
     <priority>0.5</priority>
 </url>
 <url>
+    <loc>https://cqnwiki.krastanov.org/implementation/index.html</loc>
+    <lastmod>2023-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
     <loc>https://cqnwiki.krastanov.org/template/menu1/index.html</loc>
     <lastmod>2023-02-17</lastmod>
     <changefreq>monthly</changefreq>
