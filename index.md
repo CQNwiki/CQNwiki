@@ -1,6 +1,8 @@
 @def title = "Franklin Example"
 @def tags = ["syntax", "code"]
 
+[Theory](./theory) || [Implementation](./implementation)
+
 This wiki is at an embryonic state. Partially it exists as an exercise in using git.
 
 So try this:
