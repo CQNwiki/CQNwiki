@@ -2,38 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://cqnwiki.krastanov.org/template/menu1/index.html</loc>
-    <lastmod>2023-02-16</lastmod>
+    <loc>https://cqnwiki.krastanov.org/template/menu3/index.html</loc>
+    <lastmod>2023-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://cqnwiki.krastanov.org/theory/qubit-fundamentals/linear-algebra/index.html</loc>
+    <lastmod>2023-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://cqnwiki.krastanov.org/404/index.html</loc>
-    <lastmod>2023-02-16</lastmod>
+    <lastmod>2023-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://cqnwiki.krastanov.org/template/index.html</loc>
-    <lastmod>2023-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://cqnwiki.krastanov.org/template/menu3/index.html</loc>
-    <lastmod>2023-02-16</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>
-<url>
-    <loc>https://cqnwiki.krastanov.org/template/menu2/index.html</loc>
-    <lastmod>2023-02-16</lastmod>
+    <lastmod>2023-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://cqnwiki.krastanov.org/index.html</loc>
-    <lastmod>2023-02-16</lastmod>
+    <lastmod>2023-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://cqnwiki.krastanov.org/theory/qubit-fundamentals/quantum-postulates/index.html</loc>
+    <lastmod>2023-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://cqnwiki.krastanov.org/template/menu1/index.html</loc>
+    <lastmod>2023-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://cqnwiki.krastanov.org/theory/qubit-fundamentals/circuits/index.html</loc>
+    <lastmod>2023-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://cqnwiki.krastanov.org/template/menu2/index.html</loc>
+    <lastmod>2023-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://cqnwiki.krastanov.org/theory/qubit-fundamentals/pauli-operators/index.html</loc>
+    <lastmod>2023-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://cqnwiki.krastanov.org/theory/qubit-fundamentals/dirac-notation/index.html</loc>
+    <lastmod>2023-02-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://cqnwiki.krastanov.org/theory/qubit-fundamentals/superposition-entanglement/index.html</loc>
+    <lastmod>2023-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
